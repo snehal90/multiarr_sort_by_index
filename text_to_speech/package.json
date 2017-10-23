@@ -1,6 +1,6 @@
 {
   "name": "multiarr_sort_by_index",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sort multidimensional array by index",
   "main": "index.js",
   "scripts": {

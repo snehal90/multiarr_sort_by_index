@@ -1,5 +1,5 @@
 This plugin helps you to sort the multidimensional array by index.
-There are two parameters:
+There are three parameters:
 1. multidimensional array
 2. index of value with which the array should get sort(optional, default value is 0)
 3. callback(optional)
